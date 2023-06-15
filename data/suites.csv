@@ -1,4 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Thu Jun 15 15:04:52 UTC 2023","Thu Jun 15 15:05:20 UTC 2023","28840","","21. Forgot password function","","","","2. Reset password",""
-"passed","Thu Jun 15 15:04:38 UTC 2023","Thu Jun 15 15:04:52 UTC 2023","13815","","21. Forgot password function","","","","1. Direct to forgot password page",""
-"failed","Thu Jun 15 15:06:48 UTC 2023","Thu Jun 15 15:07:12 UTC 2023","23917","","15. Test 2 Factor Login is working","","","","Get SMS and apply it in 2FA form",""
+"passed","Thu Jun 15 15:13:05 UTC 2023","Thu Jun 15 15:13:42 UTC 2023","36838","","21. Forgot password function","","","","2. Reset password",""
+"passed","Thu Jun 15 15:12:49 UTC 2023","Thu Jun 15 15:13:05 UTC 2023","16374","","21. Forgot password function","","","","1. Direct to forgot password page",""
+"failed","Thu Jun 15 15:14:48 UTC 2023","Thu Jun 15 15:15:10 UTC 2023","22101","","15. Test 2 Factor Login is working","","","","Get SMS and apply it in 2FA form",""
