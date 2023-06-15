@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jun 15 10:47:26 UTC 2023","Thu Jun 15 10:47:38 UTC 2023","11839","","21. Forgot password function","","","","1. Direct to forgot password page",""
+"passed","Thu Jun 15 10:47:38 UTC 2023","Thu Jun 15 10:48:05 UTC 2023","27072","","21. Forgot password function","","","","2. Reset password",""
+"failed","Thu Jun 15 10:49:28 UTC 2023","Thu Jun 15 10:49:51 UTC 2023","22670","","15. Test 2 Factor Login is working","","","","Get SMS and apply it in 2FA form",""
